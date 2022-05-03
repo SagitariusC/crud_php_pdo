@@ -1,4 +1,6 @@
 <?php
+//iniciar sessão
+session_start();
 //Conexao por PDO
 $servername = "localhost";
 $username = "root";
